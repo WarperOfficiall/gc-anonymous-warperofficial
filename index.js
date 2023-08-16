@@ -2,13 +2,12 @@
 // So we don't have ridiculous errors.
 window.onload = function() {
   // Your web app's Firebase configuration
-  var firebaseConfig = {
-    apiKey: "AIzaSyAc20FSPvx61kEeh0nGIogwtPrYeGlZjjA",
-  authDomain: "gc-anonymous-warperofficial.firebaseapp.com",
-  projectId: "gc-anonymous-warperofficial",
-  storageBucket: "gc-anonymous-warperofficial.appspot.com",
-  messagingSenderId: "642655368722",
-  appId: "1:642655368722:web:fa6022e87de988cb7e4acb"
+  apiKey: "AIzaSyDPqHaevLTg_KT3sqmFDr-KSbDIw9Sgye8",
+  authDomain: "gc-anonymous-wo.firebaseapp.com",
+  projectId: "gc-anonymous-wo",
+  storageBucket: "gc-anonymous-wo.appspot.com",
+  messagingSenderId: "315345448007",
+  appId: "1:315345448007:web:b3bd1f9967e366b4fad562"
 };
   // Inisialisasi Firebase
   firebase.initializeApp(firebaseConfig);
